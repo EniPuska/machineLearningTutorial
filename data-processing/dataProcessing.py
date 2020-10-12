@@ -5,6 +5,7 @@ from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder, StandardScaler
 from sklearn.compose import ColumnTransformer
 from sklearn.model_selection import train_test_split
+
 #import the dataset
 #windows 
 #dataset = pd.read_csv("C:\\Users\\alex-dev\\Desktop\\projects\\machine-learning\\data-processing\\data.csv")
